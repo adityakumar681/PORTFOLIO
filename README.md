@@ -4,11 +4,6 @@ This is a modern, responsive personal portfolio website built using **HTML** and
 
 ---
 
-## 🌐 Live Preview
-
-> [Add your live link here if hosted on GitHub Pages or Netlify]
-
----
 
 ## 📌 Features
 
